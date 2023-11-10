@@ -1,7 +1,7 @@
-# <h1 align="center">Hi 👋, I'm Erenay Tozun</h1>
-<h3 align="center">I am s Software Developer student @RijnIJssel.</h3>
+<h1 align="center">Hi 👋, I'm Erenay Tozun</h1>
+<h3 align="center">I am a Software Developer student @RijnIJssel.</h3>
 
-- 💬 Ask me about **anything you want and you may find answers :)**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **Erenay12345@outlook.com**
 
